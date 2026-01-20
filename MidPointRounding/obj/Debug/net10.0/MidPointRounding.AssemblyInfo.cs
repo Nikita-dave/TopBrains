@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MidPointRounding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e4b13a8b789446cd6e1190b20cd6d818593dcb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792a2168653b90b5037e485cbd2018a952950136")]
 [assembly: System.Reflection.AssemblyProductAttribute("MidPointRounding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MidPointRounding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
